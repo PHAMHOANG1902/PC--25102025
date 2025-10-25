@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/ProductViewerApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/ProductViewerApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/ProductViewerApp.app

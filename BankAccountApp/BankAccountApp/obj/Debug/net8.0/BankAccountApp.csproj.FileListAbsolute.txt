@@ -1,0 +1,15 @@
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.AssemblyInfoInputs.cache
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.AssemblyInfo.cs
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.csproj.CoreCompileInputs.cache
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.sourcelink.json
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.deps.json
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.runtimeconfig.json
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.dll
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.pdb
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.dll
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/refint/BankAccountApp.dll
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.pdb
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.genruntimeconfig.cache
+/Users/phamnhathoang/PC--25102025/BankAccountApp/BankAccountApp/obj/Debug/net8.0/ref/BankAccountApp.dll
