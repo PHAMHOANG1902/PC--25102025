@@ -1,0 +1,14 @@
+/Users/phamnhathoang/PC--25102025/TestPortalApp/bin/Debug/net8.0/TestPortalApp
+/Users/phamnhathoang/PC--25102025/TestPortalApp/bin/Debug/net8.0/TestPortalApp.deps.json
+/Users/phamnhathoang/PC--25102025/TestPortalApp/bin/Debug/net8.0/TestPortalApp.runtimeconfig.json
+/Users/phamnhathoang/PC--25102025/TestPortalApp/bin/Debug/net8.0/TestPortalApp.dll
+/Users/phamnhathoang/PC--25102025/TestPortalApp/bin/Debug/net8.0/TestPortalApp.pdb
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.AssemblyInfoInputs.cache
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.AssemblyInfo.cs
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.csproj.CoreCompileInputs.cache
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.dll
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/refint/TestPortalApp.dll
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.pdb
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/TestPortalApp.genruntimeconfig.cache
+/Users/phamnhathoang/PC--25102025/TestPortalApp/obj/Debug/net8.0/ref/TestPortalApp.dll
